@@ -1,0 +1,4 @@
+Nom_Structure,Type_Structure,Longueur,Charge_Maximale
+Pont_Acier,Pont,50,800
+Immeuble_Béton,Immeuble,30,1200
+Poutre_Bois,Poutre,10,200
